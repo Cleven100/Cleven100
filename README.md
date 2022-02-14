@@ -1,4 +1,4 @@
-Prazer! Eu sou o Cleven Nesello
+
 
 
 <div align="center">
@@ -7,10 +7,6 @@ Prazer! Eu sou o Cleven Nesello
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleven100&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- 🔭 Estou trabalhando com frontend e backend
-- 🌱 Estudando C# e Typescript
-- 📫 Contate-me no email: cleven100_100@hotmail.com
-- 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
