@@ -1,5 +1,8 @@
-<p>Olá, meu nome é Cleven Nesello. <br> Sou uma pessoa muito curiosa e questionadora, adoro pensar em soluções de problemas.
-Gosto de blockchain, inteligência artificial e criptomoedas. 
+<p>Sou graduando em Tecnologia da Informação e Engenharia de Software, possuo experiência profissional na área de TI, prestando serviços para pequenas e médias empresas e tenho amplo conhecimento na modelagem e arquitetura de sistemas, desenvolvimento de sistemas desktop e web, criação de websites, além de experiência na área de gestão de processos administrativos. 
+
+Durante minha trajetória profissional tive a oportunidade de desenvolver projetos na área de tecnologia que proporcionaram redução de custos e aumento de vendas. 
+
+Considero-me um profissional dinâmico, analítico, organizado e sou comprometido em oferecer a melhor solução aos clientes. 
  </p> 
 
 <div align="center">
