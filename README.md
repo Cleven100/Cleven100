@@ -1,19 +1,10 @@
-<p>Sou graduando em Tecnologia da Informação e Engenharia de Software, possuo experiência profissional na área de TI, prestando serviços para pequenas e médias empresas e tenho amplo conhecimento na modelagem e arquitetura de sistemas, desenvolvimento de sistemas desktop e web, criação de websites, além de experiência na área de gestão de processos administrativos. 
+<p>As a graduate in Information Technology and Software Engineering, I bring a wealth of professional experience in the IT field to the table. I have provided services to small and medium-sized businesses and possess a deep understanding of system modeling and architecture, as well as expertise in developing desktop and web systems and creating websites. Additionally, I have experience in the field of administrative process management.
 
-Durante minha trajetória profissional tive a oportunidade de desenvolver projetos na área de tecnologia que proporcionaram redução de custos e aumento de vendas. 
+Throughout my career, I have had the opportunity to work on technology projects that have resulted in cost reductions and increased sales. I am a dynamic, analytical, and organized professional who is dedicated to providing the best solutions to my customers.
 
-Considero-me um profissional dinâmico, analítico, organizado e sou comprometido em oferecer a melhor solução aos clientes. 
+Como graduando em Tecnologia da Informação e Engenharia de Software, possuo uma vasta experiência profissional na área de TI. Já prestei serviços para pequenas e médias empresas e tenho uma compreensão aprofundada de modelagem e arquitetura de sistemas, além de habilidades no desenvolvimento de sistemas desktop e web e criação de websites. Além disso, tenho experiência na área de gestão de processos administrativos.
+
+Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos tecnológicos que resultaram em reduções de custos e aumento de vendas. Me considero um profissional dinâmico, analítico e organizado e estou comprometido em oferecer as melhores soluções para meus clientes.
  </p> 
 
-<div align="center">
-  <a href="https://github.com/Cleven100">
-  <img  height="200em" width="52%"  src="https://github-readme-stats.vercel.app/api?username=Cleven100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="200em"  width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleven100&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img  alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
